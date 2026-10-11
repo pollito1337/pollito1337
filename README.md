@@ -4,7 +4,7 @@
 
 ---
 
-<a href="https://guns.lol/pollito1337">guns.lol</a>
+<a href="https://haunt.gg/pollito1337">haunt.gg</a>
 
 ## Magic Number
 
